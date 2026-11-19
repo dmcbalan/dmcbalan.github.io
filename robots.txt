@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dmcbalan.github.io/sitemap.xml
+Sitemap: https://balanstudy.com.ua/sitemap.xml
